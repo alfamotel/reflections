@@ -37,4 +37,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If the changes profoundly affect the master branch
+    Direct changes to the master are easier to manage but riskier
+    Branches harder to handle but safer since the master is untouched

@@ -30,7 +30,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Working on a shared files system or dropbox/google drive/etc.
+    Easier because less learning curve, but not as robust
+    There would be no worklfow
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
